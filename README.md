@@ -1,5 +1,3 @@
-# Horizontal-Swiper
-For Strating Screen
 
-# npm install
+For Strating Screen
 Uploading pemrograman.mp4…
