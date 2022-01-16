@@ -1,2 +1,4 @@
-# BhsPemrograman
-Bahsa Permograman
+# Bhs pemrograman
+
+DI Bahasa.md tempat videonya
+:) 
